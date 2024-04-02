@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "minicont")(type "KiCad")(uri "${KIPRJMOD}/minicont.kicad_sym")(options "")(descr ""))
+)
